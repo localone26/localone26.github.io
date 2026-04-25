@@ -1,0 +1,32 @@
+{
+  "apps": [
+    {
+      "id": "central-europe-plan",
+      "name": "中欧プラン",
+      "name_en": "Central Europe Plan",
+      "description": "プラハ・ウィーン・ブダペスト——中欧を旅するなら、このアプリひとつで。行きたいスポットを登録して、旅程をかんたんに組み立てられます。",
+      "icon_emoji": "✈️",
+      "icon_gradient": "linear-gradient(140deg, #0541C1 0%, #5B9BF8 100%)",
+      "features": ["🗺 旅程作成", "📍 スポット管理", "✅ チェックリスト", "無料"],
+      "repo_owner": "localone26",
+      "repo_name": "central_europe_travel",
+      "version": "1.0.4",
+      "app_store_url": "",
+      "google_play_url": ""
+    },
+    {
+      "id": "tabi-money",
+      "name": "旅マネー",
+      "name_en": "Travel Kakeibo",
+      "description": "旅先の出費をゼロストレスで記録。現地通貨のまま入力するだけで日本円に自動換算。レシートを撮影すれば金額を自動で読み取り。旅行後も使えるお金の家計簿。",
+      "icon_emoji": "💴",
+      "icon_gradient": "linear-gradient(140deg, #007A57 0%, #2ECC8E 100%)",
+      "features": ["💱 リアルタイム為替換算", "📸 レシート自動読み取り", "📊 支出管理", "複数通貨対応"],
+      "repo_owner": "localone26",
+      "repo_name": "travel-kakeibo",
+      "version": "1.4.0",
+      "app_store_url": "",
+      "google_play_url": ""
+    }
+  ]
+}
